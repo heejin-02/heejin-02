@@ -4,6 +4,12 @@
 <p align="center">- Sangmyung univ. NDSLab 학부 연구생 (2023 ~ 2024)</p>
 <p align="center">- 스마트인재개발원 SW캠프 (2025. 02 ~ 08)</p>
 
+##  <h1 align="center">🖥️ Tech Stack</h1>
+
+
+## <h1 align="center">📝 Projects</h1>
+
+<hr>
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=heejin-02&utm_content=farm">
   <img
@@ -13,11 +19,6 @@
   />
   </a>
 </p>
-
-##  <h1 align="center">🖥️ Tech Stack</h1>
-
-
-## <h1 align="center">📝 Projects</h1>
 <!--
 **heejin-02/heejin-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
