@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{heejin-02}?pet-id=1" width="1000" height="120"/>
+</a>
+
 <!--
 **heejin-02/heejin-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
