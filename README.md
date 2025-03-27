@@ -46,7 +46,7 @@
 </table>
 
 ## <h2> 📫 Contact  </h2>
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@h2jin)  
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@heejin02)  
 
 
 <p align="center">
