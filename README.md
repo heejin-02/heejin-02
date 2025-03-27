@@ -1,4 +1,7 @@
-## Hi there 👋
+## 😊 About Me
+- Sangmyung univ. Software. (2021 ~ )
+- Sangmyung univ. NDSLab 학부 연구생 (2023 ~ 2024)
+- 스마트인재개발원 SW캠프 (2025. 02 ~ 08)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=heejin-02&utm_content=farm">
 <img
