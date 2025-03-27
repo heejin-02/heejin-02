@@ -5,7 +5,13 @@
 - 스마트인재개발원 SW캠프 (2025. 02 ~ 08)</p>
 
 ##  <h1 align="center">🖥️ Tech Stack</h1>
+- 사용 가능한 언어 및 프레임워크
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+- AI 관련 기술: LLM | RoBERTa | GNN 등
+
+- 툴: Git | Docker | Jupyter Notebook
 
 ## <h1 align="center">📝 Projects</h1>
 
