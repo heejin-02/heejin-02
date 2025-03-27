@@ -1,8 +1,8 @@
 ## <h1 align="center">😊 About Me</h1>
 
-<p align="center">- Sangmyung univ. Software. (2021 ~ )</p>
-<p align="center">- Sangmyung univ. NDSLab 학부 연구생 (2023 ~ 2024)</p>
-<p align="center">- 스마트인재개발원 SW캠프 (2025. 02 ~ 08)</p>
+<p align="center">- Sangmyung univ. Software. (2021 ~ )<br>
+- Sangmyung univ. NDSLab 학부 연구생 (2023 ~ 2024)<br>
+- 스마트인재개발원 SW캠프 (2025. 02 ~ 08)</p>
 
 ##  <h1 align="center">🖥️ Tech Stack</h1>
 
