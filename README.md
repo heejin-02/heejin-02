@@ -1,4 +1,5 @@
 ## <h2>🙌 About Me</h2>
+<br>
 <p align="center"> 안녕하세요. 저는 대규모 언어 모델(LLM)을 활용해 현실의 문제를 해결하는 과정에 흥미를 느끼고, <br>
 단순한 연구를 넘어, 기술을 실제 프로젝트에 적용하고 최적화하며 문제를 해결하는 데 집중하는 개발자입니다. <br>
 새로운 기술을 배우고 직접 구현하며 발전시켜 나가는 과정에서 가장 큰 동기부여를 얻습니다 🤗</p>
@@ -20,6 +21,32 @@
 </p>
 
 ## <h2>📝 Projects</h2>
+### 📂 Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>프로젝트</th>
+      <th>설명</th>
+      <th>기술 스택</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🥹 Beenawhile</td>
+      <td>GPT를 활용하여 고인의 말투를 학습하는 챗봇 개발</td>
+      <td>Python, GPT, Android Studio</td>
+    </tr>
+    <tr>
+      <td>🌐 네트워크 트래픽 분석</td>
+      <td>LM을 이용한 네트워크 트래픽 패턴 분석 및 분류</td>
+      <td>Python, RoBERTa, BERT, Docker</td>
+    </tr>
+  </tbody>
+</table>
+
+### <h2> 📫 Contact  </h2>
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@h2jin)  
 
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=heejin-02&utm_content=farm">
@@ -30,6 +57,8 @@
   />
   </a>
 </p>
+
+
 <!--
 **heejin-02/heejin-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
