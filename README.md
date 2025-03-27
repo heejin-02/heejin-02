@@ -21,8 +21,6 @@
 </p>
 
 ## <h2>📝 Projects</h2>
-### 📂 Projects
-
 <table>
   <thead>
     <tr>
