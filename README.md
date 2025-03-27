@@ -1,3 +1,4 @@
+
 ## <h2>🙌 About Me</h2>
 <br>
 <p align="center"> 안녕하세요. 저는 대규모 언어 모델(LLM)을 활용해 현실의 문제를 해결하는 과정에 흥미를 느끼고, <br>
@@ -9,6 +10,7 @@
 - 스마트인재개발원 SW캠프 (2025. 02 ~ 08)
 
 ## <h2>🖥️ Tech Stack</h2>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
@@ -43,8 +45,9 @@
   </tbody>
 </table>
 
-### <h2> 📫 Contact  </h2>
+## <h2> 📫 Contact  </h2>
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@h2jin)  
+
 
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=heejin-02&utm_content=farm">
