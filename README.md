@@ -34,7 +34,7 @@
   <tbody>
     <tr>
       <td>🥹 Beenawhile</td>
-      <td>GPT를 활용하여 고인의 말투를 학습하는 챗봇 개발</td>
+      <td>GPT를 활용하여 고인의 말투를 학습하는 챗봇 앱 개발</td>
       <td>Python, GPT, Android Studio</td>
     </tr>
     <tr>
