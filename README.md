@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{heejin-02}?pet-id=1" width="1000" height="120"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=heejin-02&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/heejin-02"
+  width="600"
+  height="300"
+/>
 </a>
 
 <!--
