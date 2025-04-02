@@ -27,7 +27,7 @@
 | 프로젝트 | 설명 | 기술스택 | GitHub |
 |----------|-----------------------------|--------------------------|---------|
 | 🥹 Beenawhile | GPT를 활용하여 고인의 말투를 학습하는 챗봇 앱 개발 | Python, GPT, Android Studio | [GitHub]() |
-| 🌐 네트워크 트래픽 분석 | LM을 이용한 네트워크 트래픽 패턴 분석 및 분류 | Python, RoBERTa, BERT, Docker | [GitHub]() |
+| 🌐 네트워크 트래픽 분석 | LM을 이용한 네트워크 트래픽 패턴 분석 및 분류 | Python, RoBERTa, BERT, Docker | [GitHub](https://github.com/heejin-02/LM_traffic_analysis) |
 
 
 ## <h2> 📫 Contact  </h2>
