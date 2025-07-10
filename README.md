@@ -21,6 +21,9 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 
 </p>
 
