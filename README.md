@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=swagger&logoColor=white"/>
+
 </p>
 
 ## 📝 Projects
