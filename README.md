@@ -1,12 +1,13 @@
 
 ## <h2>🙌 About Me</h2>
 <br>
-<p align="center"> 안녕하세요. 저는 LLM과 데이터를 활용해 현실의 문제를 해결하고, 기술을 실제 서비스에 적용하는 과정에 흥미를 느끼는 개발자입니다.
-단순한 연구를 넘어 비즈니스 임팩트를 극대화하는 AI·데이터 전략을 고민하며, 장기적으로 PM 역할에도 도전하고자 합니다 🤗</p>
+<p align="center"> 안녕하세요. 저는 AI와 공존하며, 새로운 기술을 두려움보다 호기심으로 바라보는 개발자입니다.
+현실의 문제를 AI로 해결하고, 그 가능성을 실제 서비스에 녹여내는 과정에 깊은 흥미를 느낍니다.
+기술을 단순히 사용하는 것을 넘어, AI를 통해 세상과 사람을 더 나은 방향으로 연결하는 엔지니어가 되고자 합니다 🤗/p>
 <br>
 - Sangmyung univ. Software. (2021 ~ )<br>
-- Sangmyung univ. NDSLab 학부 연구생 (2023 ~ 2024)<br>
-- 스마트인재개발원 SW캠프 (2025. 02 ~ 08)
+- Sangmyung univ. 빅데이터네트워크연구실 학부 연구생 (2023 ~ 2024)<br>
+- 스마트인재개발원 데이터분석 SW캠프 (2025. 02 ~ 08)
 
 ## <h2>🖥️ Tech Stack</h2>
 <br>
@@ -27,6 +28,7 @@
 |----------|-----------------------------|--------------------------|---------|
 | 🥹 Beenawhile | GPT를 활용하여 고인의 말투를 학습하는 챗봇 앱 개발 | Python, GPT, Android Studio | [GitHub](https://github.com/heejin-02/Beenawhile) |
 | 🌐 네트워크 트래픽 분석 | LM을 이용한 네트워크 트래픽 패턴 분석 및 분류 | Python, RoBERTa, BERT, Docker | [GitHub](https://github.com/heejin-02/LM_traffic_analysis) |
+| ✏️ 청소년 정책 제안 토론 서비스 청정기 | 청소년이 직접 정책을 제안하고 토론할 수 있는 서비스 | Spring, Oracle, Python, GPT API, KosimCSE, KoBART, FastAPI | [GitHub](https://github.com/heejin-02/sm_core_project) |
 
 
 ## <h2> 📫 Contact  </h2>
