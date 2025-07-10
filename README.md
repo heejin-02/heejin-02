@@ -2,7 +2,7 @@
 ## <h2>🙌 About Me</h2>
 <br>
 <p align="center"> 안녕하세요. 저는 AI와 공존하며, 새로운 기술을 두려움보다 호기심으로 바라보는 개발자입니다.
-현실의 문제를 AI로 해결하고, 그 가능성을 실제 서비스에 녹여내는 과정에 깊은 흥미를 느낍니다.<br>
+<br>현실의 문제를 AI로 해결하고, 그 가능성을 실제 서비스에 녹여내는 과정에 깊은 흥미를 느낍니다.<br>
 기술을 단순히 사용하는 것을 넘어, AI를 통해 세상과 사람을 더 나은 방향으로 연결하는 엔지니어가 되고자 합니다 🤗</p>
 <br>
 - Sangmyung univ. Software. (2021 ~ )<br>
@@ -37,6 +37,7 @@
 
 
 ## <h2> 📫 Contact  </h2>
+[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/lumosmaxima_)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@heejin02)  
 
 
