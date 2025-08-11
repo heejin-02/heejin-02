@@ -34,7 +34,7 @@
 | 🥹 Beenawhile | GPT를 활용하여 고인의 말투를 학습하는 챗봇 앱 개발 | Python, GPT, Android Studio | [GitHub](https://github.com/heejin-02/Beenawhile) |
 | 🌐 네트워크 트래픽 분석 | LM을 이용한 네트워크 트래픽 패턴 분석 및 분류 | Python, RoBERTa, BERT, Docker | [GitHub](https://github.com/heejin-02/LM_traffic_analysis) |
 | ✏️ 청소년 정책 제안 토론 서비스 청정기 | 청소년이 직접 정책을 제안하고 토론할 수 있는 서비스 | Spring, Oracle, Python, GPT API, KosimCSE, KoBART, FastAPI | [GitHub](https://github.com/heejin-02/sm_core_project) |
-
+| 🍅 Yolov5를 이용한 해충 탐지 사전 알림 서비스 | 고령 사용자를 위한 실시간 벌레 탐지 및 전화 알림 서비스 | Springboot, Oracle, Python, GPT API, Yolov5,Signalwire, FastAPI | [GitHub](https://github.com/heejin-02/sm_final_project) |
 
 ## <h2> 📫 Contact  </h2>
 [![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/lumosmaxima_)
